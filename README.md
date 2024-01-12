@@ -1,5 +1,5 @@
 # ERC20-Token
-This project contains a basic implementation of a basic `ERC20` token.\
+This project contains a basic implementation of the `ERC20` token.\
 It **DOES NOT** have all the functionality and I have only created it for learning purpose.\
 \
 `ManualToken.sol` is the manual implementation.\
